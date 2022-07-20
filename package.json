@@ -1,0 +1,21 @@
+{
+    "name": "lav",
+    "displayName": "Lav",
+    "description": "A simple color theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lav Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lav Theme-color-theme.json"
+            }
+        ]
+    }
+}
